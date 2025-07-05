@@ -20,31 +20,17 @@ Practice integrating frontend and backend and deploying a real-world-like projec
 ## Main Functionalities:
 1.Admin Dashboard
 
-Login securely (using email and employee ID).
-
-Add new trainers.
-
-View the list of trainers (active/inactive status).
-
-Manage overall users and monitor system data.
+The Admin panel enables administrators to securely log in using their email and employee ID. From here, admins can add new trainers, view and manage the list of active or inactive trainers, and oversee user management and overall system data to ensure smooth platform operation.
 
  2.Trainer Dashboard
  
-Add new assignments for students (MCQs, programs, or both).
+The Trainer panel allows trainers to create new assignments for students, including MCQs, coding programs, or both. Trainers can also view, edit, and delete existing assignments, track their status, and manage courses and subjects relevant to their teaching responsibilities.
 
-View, edit, and delete existing assignments.
-
-Track the status of assignments.
-
-Manage courses and subjects related to their role.
 
 3.Student Panel
 
-View available courses and assignments.
+The Student panel is designed to help learners access and view available courses and assignments. Students can submit completed assignments and track their own progress and performance throughout the course, supporting an organized and effective learning experience.
 
-Submit completed assignments.
-
-Track their own progress and status.
 
 # Why this project is important (and what I learned):
 
