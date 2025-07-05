@@ -9,13 +9,13 @@ Frontend: React.js → for an interactive and responsive user interface.
 Backend: Spring Boot → for building RESTful APIs, handling business logic, and connecting with the database.
 
 ## Project Objectives:
-Build a modular and role-based LMS that can be extended easily.
+- Build a modular and role-based LMS that can be extended easily.
 
-Provide a clean UI for each user role: Admin, Trainer, and Student.
+- Provide a clean UI for each user role: Admin, Trainer, and Student.
 
-Learn and apply full-stack development skills: React, REST APIs, and Spring Boot.
+- Learn and apply full-stack development skills: React, REST APIs, and Spring Boot.
 
-Practice integrating frontend and backend and deploying a real-world-like project.
+- Practice integrating frontend and backend and deploying a real-world-like project.
 
 ## Main Functionalities:
 1.Admin Dashboard
@@ -27,22 +27,22 @@ The Admin panel enables administrators to securely log in using their email and 
 The Trainer panel allows trainers to create new assignments for students, including MCQs, coding programs, or both. Trainers can also view, edit, and delete existing assignments, track their status, and manage courses and subjects relevant to their teaching responsibilities.
 
 
-3.Student Panel
+3.Student Dashboard
 
 The Student panel is designed to help learners access and view available courses and assignments. Students can submit completed assignments and track their own progress and performance throughout the course, supporting an organized and effective learning experience.
 
 
 # Why this project is important (and what I learned):
 
-Learned to design a full-stack architecture: separate frontend and backend, communicate via REST APIs.
+- Learned to design a full-stack architecture: separate frontend and backend, communicate via REST APIs.
 
-Gained experience in React (routing, hooks, components).
+- Gained experience in React (routing, hooks, components).
 
-Practiced Spring Boot development: REST APIs, JPA, services.
+- Practiced Spring Boot development: REST APIs, JPA, services.
 
-Improved understanding of role-based access and modular code.
+- Improved understanding of role-based access and modular code.
 
-Applied Git and GitHub for version control and project organization.
+- Applied Git and GitHub for version control and project organization.
 
 ** Conclusion **:
 -------------------
