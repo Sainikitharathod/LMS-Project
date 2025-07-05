@@ -1,0 +1,93 @@
+.student-dashboard-container {
+  display: flex;
+  height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #1e293b;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 15px;
+}
+
+.sidebar button,
+.sidebar a {
+  color: white;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.sidebar button:hover,
+.sidebar a:hover {
+  background-color: #334155;
+  border-radius: 5px;
+}
+
+.dashboard-content {
+  flex: 1;
+  padding: 30px;
+  background-color: #f1f5f9;
+}
+
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.course-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.course-form input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+
+.course-form button {
+  background-color: #10b981;
+  padding: 10px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.course-form button:hover {
+  background-color: #059669;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
