@@ -19,6 +19,7 @@ Practice integrating frontend and backend and deploying a real-world-like projec
 
 ## Main Functionalities:
 1.Admin Dashboard
+
 Login securely (using email and employee ID).
 
 Add new trainers.
@@ -28,6 +29,7 @@ View the list of trainers (active/inactive status).
 Manage overall users and monitor system data.
 
  2.Trainer Dashboard
+ 
 Add new assignments for students (MCQs, programs, or both).
 
 View, edit, and delete existing assignments.
@@ -37,6 +39,7 @@ Track the status of assignments.
 Manage courses and subjects related to their role.
 
 3.Student Panel
+
 View available courses and assignments.
 
 Submit completed assignments.
@@ -44,6 +47,7 @@ Submit completed assignments.
 Track their own progress and status.
 
 # Why this project is important (and what I learned):
+
 Learned to design a full-stack architecture: separate frontend and backend, communicate via REST APIs.
 
 Gained experience in React (routing, hooks, components).
